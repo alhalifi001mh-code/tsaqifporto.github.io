@@ -3,12 +3,13 @@
 
 /* Font tambahan */
 @font-face {
-  font-family: 'Valmeria';
-  src: url('ValmeriaRegular-aYrgJ.ttf') format('truetype');
   font-family: 'Tag';
   src: url('tag.ttf') format('truetype');
 }
-
+@font-face {
+  font-family: 'Valmeria';
+  src: url('ValmeriaRegular-aYrgJ.ttf') format('truetype');
+}
 /* Reset & Body */
 body {
   margin: 0;
@@ -694,4 +695,3 @@ section p {
     width: 240px;
   }
 }
-
